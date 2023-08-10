@@ -1,0 +1,81 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK container-kernel-netserver  ################################
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/stella_doing_graph/container_engine_with_netserver/")
+
+# Import netperf file
+fio<- readr::read_csv("container_engine_time.csv") 
+
+# Format column types
+
+fio$size_message <- as.factor(fio$size_message) 
+fio$netserver_time <- fio$netserver_time*100 
+fio$kernel_time <- fio$kernel_time*100 
+
+## PLOTS ##
+########################################### visualisation container  #############################################
+
+p<- ggplot(fio, aes(x=size_message, y=Container_Engine_time, fill=Environment,label=Container_Engine_time)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x="Message size in bytes", y=" Latency (s)")
+
+p<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("container.pdf",width=11,height = 9)
+
+########################################### visualisation kernel #############################################
+
+p1<- ggplot(fio, aes(x=size_message, y=kernel_time, fill=Environment,label=kernel_time)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x="Message size in bytes", y=" Latency (ms)")
+
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("kernel.pdf",width=11,height = 9)
+
+########################################### visualisation netserver #############################################
+
+p2<- ggplot(fio, aes(x=size_message, y=netserver_time, fill=Environment,label=netserver_time)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x="Message size in bytes", y=" Latency (ms)")
+
+p2<-p2 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("netserver.pdf",width=11,height = 9)

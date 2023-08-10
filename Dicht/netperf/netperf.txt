@@ -1,0 +1,89 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK netperf ################################
+
+
+# Set Working Directory
+setwd("~/Dicht/netperf/")
+# Import netperf file
+netperf<- readr::read_csv("netperf_final.csv")
+
+netperf$MessageSize <- as.factor(netperf$MessageSize)   
+
+
+####################### visualisation du debit ############################
+
+
+p<- ggplot(netperf, aes(x=MessageSize, y=TCP_mean, fill=Environment,label=TCP_mean)) +
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=TCP_mean-TCP_std, ymax=TCP_mean+TCP_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="Packet size in bytes", y="Throughput MB/s")
+p<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                            legend.text = element_text( size = 40),
+                            axis.text.x  = element_text(vjust=0.5, size=44,angle=30,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=44),
+                            axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+ggsave("netperf.pdf",width=25,height = 11)
+
+
+#################################### latency ##################################
+
+p1<- ggplot(netperf, aes(x=MessageSize, y=time_mean, fill=Environment,label=time_mean)) +
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=time_mean-time_std, ymax=time_mean+time_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="Packet size in bytes", y="Latency (Microseconds)")
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                            legend.text = element_text( size = 40),
+                            axis.text.x  = element_text(vjust=0.5, size=44,angle=30,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=44),
+                            axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+ggsave("netperf_time.pdf",width=28,height = 11)
+
+
+
+##################################### avec les variantes runtimes #######################
+
+
+# Import netperf file
+netperf_g<- readr::read_csv("netperf_global.csv")
+
+netperf_g$MessageSize <- as.factor(netperf_g$MessageSize)   
+
+
+####################### visualisation du debit ############################
+
+
+p<- ggplot(netperf_g, aes(x=MessageSize, y=TCP_mean, fill=Environment,label=TCP_mean)) +
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=TCP_mean-TCP_std, ymax=TCP_mean+TCP_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="Packet size in bytes", y="Throughput MB/s")
+p<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                            legend.text = element_text( size = 40),
+                            axis.text.x  = element_text(vjust=0.5, size=44,angle=30,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=44),
+                            axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+ggsave("netperf_global.pdf",width=28,height = 11)
+

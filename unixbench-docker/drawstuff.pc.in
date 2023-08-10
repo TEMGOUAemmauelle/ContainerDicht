@@ -1,0 +1,13 @@
+#please replace @prefix@ to ode-prefix(pkg-config ode --variable=prefix)
+#please	replace	@DS_VERSION@ to ode-version(pkg-config ode --modversion)
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: drawstuff
+Description: Drawstuff
+Version: @DS_VERSION@
+Libs: -L${libdir} -ldrawstuff @GL_LIBRARIES@
+Libs.private: -lstdc++ -lm
+Cflags: -I${includedir}

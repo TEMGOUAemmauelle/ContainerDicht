@@ -1,0 +1,64 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK Ipc ################################
+
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/IPC/")
+
+# Import netperf file
+df<- readr::read_csv("ipc.csv") 
+
+# Format column types
+
+df$message_size <- as.factor(df$message_size)    
+
+## PLOTS ##
+
+# TP
+
+########################## visualisation #############################
+
+p<- ggplot(df, aes(x=message_size, y=ipc, fill=Environment,label=ipc)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  ##geom_text(mapping=aes(label=resultat_mean),size=6,position=position_dodge(.9),vjust=4.5) ### 
+  ##geom_errorbar(aes(ymin=valeur_mean-valeur_std, ymax=valeur_mean+valeur_std), width=.2,
+  ## position=position_dodge(.9))+
+  labs(x="Message size ", y=" Instruction Per Cycle ")
+
+
+g<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                            legend.text = element_text( size = 40),
+                            axis.text.x  = element_text(vjust=0.5, size=44,angle=60,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=44),
+                            axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+g + scale_x_discrete(labels=c("1000" = "1k", "2000" = "2k",
+                              "3000" = "3k","4000" = "4k", "5000" = "5k",
+                              "6000" = "6k","7000" = "7k", "8000" = "8k",
+                              "9000" = "9k","10000" = "10k", "11000" = "11k",
+                              "12000" = "12k","13000" = "13k", "14000" = "14k",
+                              "15000" = "15k","16000" = "16k", "17000" = "17k",
+                              "18000" = "18k","19000" = "19k", "20000" = "20k",
+                              "21000" = "21k","22000" = "22k", "23000" = "23k",
+                              "24000" = "24k","25000" = "25k", "26000" = "26k",
+                              "27000" = "27k","28000" = "28k", "29000" = "29k",
+                              "30000" = "30k","31000" = "31k", "32000" = "32k",
+                              "33000" = "33k","34000" = "34k", "35000" = "35k",
+                              "36000" = "36k","37000" = "37k", "38000" = "38k",
+                              "39000" = "39k","40000" = "40k", "41000" = "41k"))
+
+ggsave("ipc_final2.pdf",width=26,height = 10)
+
