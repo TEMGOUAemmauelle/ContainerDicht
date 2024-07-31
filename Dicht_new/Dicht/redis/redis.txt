@@ -1,0 +1,47 @@
+
+
+#####  #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK redis ################################
+
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/redis/")
+
+# Import netperf file
+
+redis<- readr::read_csv("redis_rps.csv")
+
+
+# Format column types
+
+redis$test<- as.factor(redis$test)    
+
+## PLOTS ##
+
+################################################## visualisation debit requests per seconds ######################################
+
+
+p<- ggplot(redis, aes(x=test, y=rps_mean, fill=Environment,label=rps_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  labs(x="", y="Requests per second(rps)")
+
+
+p + theme_classic()+theme(legend.position = "top",legend.title = element_blank(),
+          legend.text = element_text( size = 40),
+          axis.text.x  = element_text(vjust=0.5, size=44,angle=80,color="black"),
+          axis.text.y  = element_text(vjust=0.5, size=44,color="black"),
+          axis.title.x = element_text(),
+          axis.title.y = element_text(vjust=0.5, size=40,color = "black"))
+
+ggsave("redis_final.pdf",width=20,height = 10)

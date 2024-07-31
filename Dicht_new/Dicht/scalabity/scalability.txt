@@ -1,0 +1,87 @@
+
+
+#####  #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK scalability POSTGRESQL  ################################
+
+
+# Set Working Directory
+setwd("~/Dicht/scalabity/")
+
+
+# Import netperf file
+df<- readr::read_csv("scala.csv")
+
+# Format column types
+
+df$containers <- as.factor(df$containers)    
+
+## PLOTS ##
+
+############################### visualisation latence #########################
+
+
+p<- ggplot(df, aes(x=containers, y=time_mean, fill=Environnement,label=time_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=.8,
+           position=position_dodge()) +
+  labs(x="Container running", y="Latency (s)")
+ 
+
+
+ p +theme_classic()+theme(legend.position = "top",legend.title = element_blank(),
+              legend.text = element_text( size = 40),
+              axis.text.x  = element_text(vjust=0.5,size=45,color = "black"),
+              axis.text.y  = element_text(vjust=0.5, size=45,color = "black"),
+              axis.title.x = element_text(vjust=0.5,size=44,color = "black"),
+              axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("scala.pdf",width=25,height = 10)
+
+
+
+
+#######################################################################################
+
+############################# BENCHMARK avec les runtimes  ################################
+
+
+
+
+# Import netperf file
+df1<- readr::read_csv("scalabity_final.csv")
+
+# Format column types
+
+df1$containers <- as.factor(df1$containers)    
+
+## PLOTS ##
+
+############################### visualisation latence #########################
+
+
+p1<- ggplot(df1, aes(x=containers, y=time_mean, fill=Environnement,label=time_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=.8,
+           position=position_dodge()) +
+  labs(x="Container running", y="Latency (s)")
+ 
+
+
+ p1<-p1 +theme_classic()+theme(legend.position = "top",legend.title = element_blank(),
+              legend.text = element_text( size = 40),
+              axis.text.x  = element_text(vjust=0.5,size=45,color = "black"),
+              axis.text.y  = element_text(vjust=0.5, size=45,color = "black"),
+              axis.title.x = element_text(vjust=0.5,size=44,color = "black"),
+              axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("scalability_post.pdf",width=25,height = 10)

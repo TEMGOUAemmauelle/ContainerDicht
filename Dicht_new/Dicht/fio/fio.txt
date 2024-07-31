@@ -1,0 +1,130 @@
+
+
+#####  #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK fio ################################
+
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/fio/")
+
+# Import netperf file
+fio<- readr::read_csv("fio.csv")
+
+fio$tests <- as.factor(fio$tests)
+
+
+
+########################################### visualisation debit #############################################
+
+
+p<- ggplot(fio, aes(x=tests, y=debit_mean, fill=Environment,label=debit_mean)) +
+    geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+             position=position_dodge()) +
+  
+  geom_errorbar(aes(ymin=debit_mean-debit_std, ymax=debit_mean+debit_std), width=.2,
+  position=position_dodge(.9))+
+   labs(x="", y="Throughput MB/s")
+
+p<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=20),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("fio.pdf",width=11,height = 9)
+
+
+########################################### visualisation time  #############################################
+
+
+p1<- ggplot(fio, aes(x=tests, y=avg_mean, fill=Environment,label=avg_mean)) +
+    geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+             position=position_dodge()) +
+  
+  geom_errorbar(aes(ymin=avg_mean-avg_std, ymax=avg_mean+avg_std), width=.2,
+  position=position_dodge(.9))+
+   labs(x="", y="Latency (s)")
+
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=20),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("fio_time.pdf",width=11,height = 9)
+
+
+
+
+
+###########################################################################################################
+
+################## ####################avec variantes les runtimes ##########################################
+
+
+# Import netperf file
+fio1<- readr::read_csv("fio_global.csv")
+
+fio1$tests <- as.factor(fio1$tests)
+
+
+
+########################################### visualisation debit #############################################
+
+
+p2<- ggplot(fio1, aes(x=tests, y=debit_mean, fill=Environment,label=debit_mean)) +
+    geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+             position=position_dodge()) +
+  
+  geom_errorbar(aes(ymin=debit_mean-debit_std, ymax=debit_mean+debit_std), width=.2,
+  position=position_dodge(.9))+
+   labs(x="", y="Throughput MB/s")
+
+p2<-p2 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=20),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("fio_global.pdf",width=27,height = 11)
+
+
+########################################### visualisation time  #############################################
+
+
+p3<- ggplot(fio1, aes(x=tests, y=avg_mean, fill=Environment,label=avg_mean)) +
+    geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+             position=position_dodge()) +
+  
+  geom_errorbar(aes(ymin=avg_mean-avg_std, ymax=avg_mean+avg_std), width=.2,
+  position=position_dodge(.9))+
+   labs(x="", y="Latency (s)")
+
+p3<-p3 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                                legend.text = element_text( size = 40,color = "black"),
+                                axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=20),
+                                axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+
+ggsave("fio_time_global.pdf",width=27,height = 11)
+
+
+
+
+
