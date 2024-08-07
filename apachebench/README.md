@@ -40,4 +40,8 @@ If you're using Kubernetes, CRI-O offers a native and efficient way to manage co
 how to run the benchmark CRI-O
 To test the performance of the storage, just go in a folder that mounts the storage and run :
 
+
+```
 kubectl run -it ab --image=docker.io/ab -- ab -n 1000000 -c 100 -r http:/10.88.0.2:80/
+
+```
