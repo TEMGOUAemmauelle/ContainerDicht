@@ -1,4 +1,4 @@
-To test the performance of the storage, just go in a folder that mounts the storage and run :
+
 ```
 docker/podman  run -it --rm nginx
 ```
