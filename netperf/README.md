@@ -9,8 +9,10 @@ To compare throughput between Docker host networking and bridged networking:
 
 ```
 $ # Run host-network netperf test
+```
 $ docker/podman  run -dt --net=host --name netserver-host paultiplady/netperf
 $ docker/podman  run -it --net=host paultiplady/netperf netperf –l 10 -i 10 -I 95,1 -c -j -H 127.0.0.1 -t OMNI -- -D  -T tcp -O THROUGHPUT,THROUGHPUT_UNITS,STDDEV_LATENCY,LOCAL_CPU_UTIL
+```
 OMNI Send TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 127.0.0.1 () port 0 AF_INET : +/-0.500% @ 95% conf.  : nodelay
 Throughput Throughput  Stddev       Local  
            Units       Latency      CPU    
@@ -43,5 +45,7 @@ If you're using Kubernetes, CRI-O offers a native and efficient way to manage co
 
 To test the performance of the storage, just go in a folder that mounts the storage and run : 
 ```bash
+```
 kubectl run -it net --image=registry.io/netperf
 kubectl run -it name --image=registry.io/netperf -- netperf -t TCP_STREAM -H @ip_net -c -C -l 300 -- -m 64  //(registry=docker )
+```
