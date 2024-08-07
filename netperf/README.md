@@ -44,7 +44,7 @@ If you're using Kubernetes, CRI-O offers a native and efficient way to manage co
 ## how to run the benchmark CRI-O
 
 To test the performance of the storage, just go in a folder that mounts the storage and run : 
-```bash
+
 ```
 kubectl run -it net --image=registry.io/netperf
 kubectl run -it name --image=registry.io/netperf -- netperf -t TCP_STREAM -H @ip_net -c -C -l 300 -- -m 64  //(registry=docker )
