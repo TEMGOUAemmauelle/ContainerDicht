@@ -7,8 +7,8 @@ If the container is run without arguments, it will start a netserver daemon. The
 
 To compare throughput between Docker host networking and bridged networking:
 
-```
 $ # Run host-network netperf test
+
 ```
 $ docker/podman  run -dt --net=host --name netserver-host paultiplady/netperf
 $ docker/podman  run -it --net=host paultiplady/netperf netperf –l 10 -i 10 -I 95,1 -c -j -H 127.0.0.1 -t OMNI -- -D  -T tcp -O THROUGHPUT,THROUGHPUT_UNITS,STDDEV_LATENCY,LOCAL_CPU_UTIL
