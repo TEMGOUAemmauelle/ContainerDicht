@@ -1,0 +1,5 @@
+#define REDIS_GIT_SHA1 "fac188b4"
+#define REDIS_GIT_DIRTY "0"
+#define REDIS_BUILD_ID "michel-mballa-ThinkPad-E570-1667581753"
+#include "version.h"
+#define REDIS_BUILD_ID_RAW REDIS_VERSION REDIS_BUILD_ID REDIS_GIT_DIRTY REDIS_GIT_SHA1

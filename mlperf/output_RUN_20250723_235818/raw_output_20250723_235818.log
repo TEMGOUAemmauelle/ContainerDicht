@@ -1,0 +1,3932 @@
+
+===============================
+[🔥] Runtime : docker - Itération : 1
+===============================
+Latence moyenne: 8.08 ms
+Throughput: 123.68 inférences/sec
+Durée d'exécution : 1553 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run1_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run1_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run1_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 2
+===============================
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Durée d'exécution : 1545 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run2_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run2_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run2_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 3
+===============================
+Latence moyenne: 8.30 ms
+Throughput: 120.51 inférences/sec
+Durée d'exécution : 1580 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run3_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run3_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run3_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 4
+===============================
+Latence moyenne: 7.89 ms
+Throughput: 126.69 inférences/sec
+Durée d'exécution : 1524 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run4_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run4_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run4_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 5
+===============================
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Durée d'exécution : 1524 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run5_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run5_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run5_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 6
+===============================
+Latence moyenne: 7.84 ms
+Throughput: 127.52 inférences/sec
+Durée d'exécution : 1516 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run6_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run6_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run6_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 7
+===============================
+Latence moyenne: 7.12 ms
+Throughput: 140.49 inférences/sec
+Durée d'exécution : 1462 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run7_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run7_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run7_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 8
+===============================
+Latence moyenne: 7.63 ms
+Throughput: 131.08 inférences/sec
+Durée d'exécution : 1518 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run8_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run8_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run8_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 9
+===============================
+Latence moyenne: 7.95 ms
+Throughput: 125.79 inférences/sec
+Durée d'exécution : 1566 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run9_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run9_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run9_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 10
+===============================
+Latence moyenne: 8.02 ms
+Throughput: 124.61 inférences/sec
+Durée d'exécution : 1533 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run10_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run10_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run10_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 11
+===============================
+Latence moyenne: 7.16 ms
+Throughput: 139.54 inférences/sec
+Durée d'exécution : 1489 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run11_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run11_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run11_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 12
+===============================
+Latence moyenne: 7.16 ms
+Throughput: 139.65 inférences/sec
+Durée d'exécution : 1423 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run12_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run12_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run12_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 13
+===============================
+Latence moyenne: 7.90 ms
+Throughput: 126.53 inférences/sec
+Durée d'exécution : 1544 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run13_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run13_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run13_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 14
+===============================
+Latence moyenne: 7.77 ms
+Throughput: 128.72 inférences/sec
+Durée d'exécution : 1532 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run14_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run14_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run14_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 15
+===============================
+Latence moyenne: 7.99 ms
+Throughput: 125.14 inférences/sec
+Durée d'exécution : 1513 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run15_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run15_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run15_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 16
+===============================
+Latence moyenne: 8.19 ms
+Throughput: 122.01 inférences/sec
+Durée d'exécution : 1572 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run16_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run16_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run16_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 17
+===============================
+Latence moyenne: 7.07 ms
+Throughput: 141.44 inférences/sec
+Durée d'exécution : 1409 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run17_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run17_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run17_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 18
+===============================
+Latence moyenne: 7.81 ms
+Throughput: 127.97 inférences/sec
+Durée d'exécution : 1499 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run18_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run18_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run18_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 19
+===============================
+Latence moyenne: 7.28 ms
+Throughput: 137.34 inférences/sec
+Durée d'exécution : 1448 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run19_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run19_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run19_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 20
+===============================
+Latence moyenne: 8.03 ms
+Throughput: 124.56 inférences/sec
+Durée d'exécution : 1549 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run20_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run20_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run20_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 21
+===============================
+Latence moyenne: 8.05 ms
+Throughput: 124.20 inférences/sec
+Durée d'exécution : 1524 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run21_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run21_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run21_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 22
+===============================
+Latence moyenne: 7.71 ms
+Throughput: 129.63 inférences/sec
+Durée d'exécution : 1506 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run22_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run22_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run22_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 23
+===============================
+Latence moyenne: 7.60 ms
+Throughput: 131.58 inférences/sec
+Durée d'exécution : 1498 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run23_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run23_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run23_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 24
+===============================
+Latence moyenne: 7.15 ms
+Throughput: 139.89 inférences/sec
+Durée d'exécution : 1463 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run24_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run24_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run24_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 25
+===============================
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Durée d'exécution : 1544 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run25_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run25_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run25_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 26
+===============================
+Latence moyenne: 8.16 ms
+Throughput: 122.55 inférences/sec
+Durée d'exécution : 1538 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run26_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run26_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run26_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 27
+===============================
+Latence moyenne: 7.94 ms
+Throughput: 125.89 inférences/sec
+Durée d'exécution : 1526 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run27_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run27_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run27_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 28
+===============================
+Latence moyenne: 7.68 ms
+Throughput: 130.14 inférences/sec
+Durée d'exécution : 1564 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run28_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run28_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run28_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 29
+===============================
+Latence moyenne: 8.22 ms
+Throughput: 121.67 inférences/sec
+Durée d'exécution : 1597 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run29_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run29_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run29_docker/time.txt
+
+===============================
+[🔥] Runtime : docker - Itération : 30
+===============================
+Latence moyenne: 7.55 ms
+Throughput: 132.44 inférences/sec
+Durée d'exécution : 1490 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run30_docker :
+  ↪ Énergie : ./output_RUN_20250723_235818/run30_docker/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run30_docker/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 1
+===============================
+Latence moyenne: 7.79 ms
+Throughput: 128.41 inférences/sec
+Durée d'exécution : 1730 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run1_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run1_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run1_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 2
+===============================
+Latence moyenne: 8.05 ms
+Throughput: 124.20 inférences/sec
+Durée d'exécution : 1731 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run2_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run2_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run2_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 3
+===============================
+Latence moyenne: 7.91 ms
+Throughput: 126.33 inférences/sec
+Durée d'exécution : 1734 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run3_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run3_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run3_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 4
+===============================
+Latence moyenne: 8.01 ms
+Throughput: 124.86 inférences/sec
+Durée d'exécution : 1830 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run4_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run4_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run4_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 5
+===============================
+Latence moyenne: 7.95 ms
+Throughput: 125.81 inférences/sec
+Durée d'exécution : 1732 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run5_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run5_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run5_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 6
+===============================
+Latence moyenne: 7.87 ms
+Throughput: 127.05 inférences/sec
+Durée d'exécution : 1734 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run6_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run6_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run6_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 7
+===============================
+Latence moyenne: 7.93 ms
+Throughput: 126.14 inférences/sec
+Durée d'exécution : 1632 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run7_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run7_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run7_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 8
+===============================
+Latence moyenne: 7.39 ms
+Throughput: 135.23 inférences/sec
+Durée d'exécution : 1731 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run8_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run8_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run8_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 9
+===============================
+Latence moyenne: 7.79 ms
+Throughput: 128.32 inférences/sec
+Durée d'exécution : 1732 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run9_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run9_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run9_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 10
+===============================
+Latence moyenne: 7.67 ms
+Throughput: 130.29 inférences/sec
+Durée d'exécution : 1729 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run10_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run10_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run10_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 11
+===============================
+Latence moyenne: 8.20 ms
+Throughput: 121.89 inférences/sec
+Durée d'exécution : 1733 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run11_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run11_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run11_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 12
+===============================
+Latence moyenne: 8.10 ms
+Throughput: 123.42 inférences/sec
+Durée d'exécution : 1834 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run12_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run12_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run12_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 13
+===============================
+Latence moyenne: 7.66 ms
+Throughput: 130.49 inférences/sec
+Durée d'exécution : 1735 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run13_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run13_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run13_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 14
+===============================
+Latence moyenne: 7.74 ms
+Throughput: 129.18 inférences/sec
+Durée d'exécution : 1833 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run14_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run14_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run14_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 15
+===============================
+Latence moyenne: 7.07 ms
+Throughput: 141.35 inférences/sec
+Durée d'exécution : 1531 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run15_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run15_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run15_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 16
+===============================
+Latence moyenne: 7.76 ms
+Throughput: 128.77 inférences/sec
+Durée d'exécution : 1831 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run16_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run16_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run16_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 17
+===============================
+Latence moyenne: 7.57 ms
+Throughput: 132.02 inférences/sec
+Durée d'exécution : 1834 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run17_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run17_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run17_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 18
+===============================
+Latence moyenne: 7.94 ms
+Throughput: 125.86 inférences/sec
+Durée d'exécution : 1833 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run18_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run18_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run18_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 19
+===============================
+Latence moyenne: 7.75 ms
+Throughput: 128.93 inférences/sec
+Durée d'exécution : 1631 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run19_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run19_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run19_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 20
+===============================
+Latence moyenne: 7.06 ms
+Throughput: 141.59 inférences/sec
+Durée d'exécution : 1630 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run20_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run20_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run20_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 21
+===============================
+Latence moyenne: 7.59 ms
+Throughput: 131.79 inférences/sec
+Durée d'exécution : 1731 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run21_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run21_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run21_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 22
+===============================
+Latence moyenne: 7.82 ms
+Throughput: 127.78 inférences/sec
+Durée d'exécution : 1733 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run22_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run22_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run22_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 23
+===============================
+Latence moyenne: 7.94 ms
+Throughput: 125.93 inférences/sec
+Durée d'exécution : 1730 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run23_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run23_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run23_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 24
+===============================
+Latence moyenne: 7.09 ms
+Throughput: 141.11 inférences/sec
+Durée d'exécution : 1631 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run24_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run24_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run24_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 25
+===============================
+Latence moyenne: 8.30 ms
+Throughput: 120.42 inférences/sec
+Durée d'exécution : 1833 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run25_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run25_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run25_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 26
+===============================
+Latence moyenne: 7.63 ms
+Throughput: 130.94 inférences/sec
+Durée d'exécution : 1732 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run26_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run26_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run26_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 27
+===============================
+Latence moyenne: 8.05 ms
+Throughput: 124.18 inférences/sec
+Durée d'exécution : 1833 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run27_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run27_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run27_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 28
+===============================
+Latence moyenne: 7.88 ms
+Throughput: 126.88 inférences/sec
+Durée d'exécution : 1833 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run28_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run28_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run28_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 29
+===============================
+Latence moyenne: 7.74 ms
+Throughput: 129.21 inférences/sec
+Durée d'exécution : 1733 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run29_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run29_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run29_podman/time.txt
+
+===============================
+[🔥] Runtime : podman - Itération : 30
+===============================
+Latence moyenne: 7.11 ms
+Throughput: 140.61 inférences/sec
+Durée d'exécution : 1734 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run30_podman :
+  ↪ Énergie : ./output_RUN_20250723_235818/run30_podman/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run30_podman/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 1
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "1eed0e0a-4c5f-42db-99a4-66607a16ca72"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+b2f0baf0cb37bd5121eef7b1db83f4d08cea9df8824939f0293f0a80e482db1d
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Durée d'exécution : 2738 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run1_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run1_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run1_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 2
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "ea1ece66-3ed7-43a7-ac33-67ccd1498ca1"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+0f9ae7cd76f0eacff520861d905e2c128e84ed2b9201bd269b5f3f8c5c3728bb
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Durée d'exécution : 2815 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run2_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run2_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run2_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 3
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "8e623c04-e8a7-4305-a81d-554b4518bee7"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+5852de2aa5a5264c152d83cec5ac7704c1674e9cd618567b42abf3a8b338474d
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Durée d'exécution : 2812 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run3_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run3_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run3_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 4
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "224bf73f-4c81-43b0-9eb4-09cbe795fbc6"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+369454644e6d68155cf4b9ebf911f2f527073acd5d364141e2c2e07e9482f6ae
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Durée d'exécution : 2811 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run4_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run4_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run4_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 5
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "0c351235-3853-4a17-a76b-1c2344724975"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+b3e9dd194a6876e1211ce2a10d0e524ff203b8b7355ee189f79edc8b48a93d3e
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Durée d'exécution : 2846 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run5_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run5_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run5_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 6
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "707b116d-273b-44f4-9a9e-a1fe26ad8135"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+e45b57ae684c529a037ebcf6e0f65b88b25e42206dcec2e327b83d3e9c213de0
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Durée d'exécution : 2709 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run6_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run6_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run6_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 7
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "d41cd2c4-015f-46fb-b1f7-e65aa2771064"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+a8c5480ebc3cca97111052c298f9d0078b242c3e66df037e2e9eac61fea1d5b9
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Durée d'exécution : 2820 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run7_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run7_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run7_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 8
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "dc3205db-bfb9-4b7c-af77-8d5e92149207"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+212c5243e3c184c7112df21e501cc29f0652dca2609bcba6a624ba64ea37e6b1
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Durée d'exécution : 2848 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run8_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run8_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run8_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 9
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "4dfb247e-70d5-4972-894d-3491dde84454"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+765dc568bb066efc52a5cdc7c6c68f68e5c6e3a592124806cf0c0046949bb281
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Durée d'exécution : 2787 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run9_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run9_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run9_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 10
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "42161526-28f6-4e9b-bc06-4b9d3fc507e7"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+486881b33238d3ec6e82c654e4ed3762ef72517a9d958a3f3a88204c2b0db3a2
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Durée d'exécution : 2817 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run10_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run10_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run10_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 11
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "04cccde1-e13a-43f7-9d15-224599562470"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+ceac484257af248367d1e690749119246418aa1c29c9f16e0344707337241b1b
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Durée d'exécution : 2711 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run11_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run11_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run11_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 12
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "cc9c0352-30d0-4a19-bd1e-e7c3faecad40"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+d3a19486be7f54bef0828e6bfa6a0bb4f61b421d9cf5817ec24b8ad85b75b622
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Durée d'exécution : 2709 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run12_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run12_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run12_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 13
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "a0de9301-d72a-4824-b543-01f0cc957ce8"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+f87ca6d0867fe66a2a3a3643d45f116b229ca2553ad3841f742fffcaa60048ae
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Durée d'exécution : 2711 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run13_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run13_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run13_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 14
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "5c2fe9bd-8b6e-4715-b187-5dd9f18b3469"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+33b6a2f64ba1396d26ba0d8f125f94b374cea51f1873309636a0951f704dc4c4
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Durée d'exécution : 2822 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run14_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run14_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run14_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 15
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "14b2056c-af0f-471a-9b64-217a98d89307"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+eb9642afb5c98721788f7995a235b5af387355f4f10129a2ede8c0f35063548a
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Durée d'exécution : 2698 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run15_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run15_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run15_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 16
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "65c1052c-a153-4f69-95ff-2daa7f01130e"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+d4458c9d80dbe5babe16cc2af2377f8ee04194f5b94adc5980c3168698a18645
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Durée d'exécution : 2849 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run16_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run16_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run16_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 17
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "ee26a965-7c5e-46a9-8334-450903ec97a9"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+3fb01782acea8fc7cd347bdc262cb1beb4b807026b9ed4626d4ae157f71fd8fb
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Durée d'exécution : 2699 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run17_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run17_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run17_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 18
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "47ec9a9b-c41f-45bd-8794-90a80bc7bc8a"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+63deed66db39ca7176e11b6cb869a104ce42e7ed18d1918af78cb5dbde42e5b7
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Durée d'exécution : 2746 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run18_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run18_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run18_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 19
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "4788183b-96b4-45e3-b761-18c20b0e9f36"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+5ba8b64f0f9574d82f972a96369fc8c3fce854c57ee525b13fd9bc2a8dd2e865
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Durée d'exécution : 2718 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run19_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run19_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run19_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 20
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "2d968d22-c160-4d10-9d59-5beab4ac4bc6"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+b5363ac3a77417dd89d2e837b6d4dcfde96758bf6e2d569a75bf589ddb9ccf28
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Durée d'exécution : 2717 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run20_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run20_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run20_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 21
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "6ac39f9b-e778-4b23-a45a-9cabcf469f87"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+264529c9d94ee7ef5db31ae333e446b43d976263e6074d75f79cc220c4605040
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Durée d'exécution : 2818 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run21_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run21_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run21_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 22
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "2154ba74-0f80-4ae9-a4c5-8e56fabbd7d6"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+642844f8c06e767e6d48f03385b29b3bba1c82d5c532a43da366c500692d7cbe
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Durée d'exécution : 2734 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run22_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run22_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run22_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 23
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "f1db518f-de45-4240-9aaa-351c9707fb33"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+cb058358d9faba0a6f235c7edcc5e8bc9a054460317981f11a903a15853a650d
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Durée d'exécution : 2695 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run23_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run23_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run23_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 24
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "ed1c143c-20bc-42c4-b688-3d908f22a287"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+3d316b536d46c83254072a529b359c46374318013cdb1d68ca4875f9ce1bbd32
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Durée d'exécution : 2834 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run24_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run24_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run24_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 25
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "5d42859b-8512-4a5a-a6fe-07fc979738ce"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+7a8c1fd8fc0eba32d9e2314cbb92cf2052b0d57ac593cdbec9aa2a6019924d6e
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Durée d'exécution : 2852 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run25_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run25_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run25_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 26
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "10d83fcd-93bf-43fc-b147-99509e943a29"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+4487a2502e8694197ff28081eced54cfbf216d2382aa32efd0fb7dcafd7e7c70
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Latence moyenne: 8.15 ms
+Throughput: 122.65 inférences/sec
+Durée d'exécution : 2824 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run26_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run26_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run26_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 27
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "220fe54c-7da5-42c0-bf80-dc5bfcf36d6a"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+72770b4e5921ac8b66aa69cd82edc02f53bfae233362e1ff066cf6145370fd88
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Latence moyenne: 8.15 ms
+Throughput: 122.65 inférences/sec
+Latence moyenne: 8.21 ms
+Throughput: 121.80 inférences/sec
+Durée d'exécution : 2700 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run27_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run27_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run27_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 28
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "773bcb6b-e7ed-4098-9d9b-a12eefba29cb"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+c49d0889e5b0e421aa2909c87c4981ea440a336ead593fd6404d018769848c5a
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Latence moyenne: 8.15 ms
+Throughput: 122.65 inférences/sec
+Latence moyenne: 8.21 ms
+Throughput: 121.80 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.25 inférences/sec
+Durée d'exécution : 2822 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run28_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run28_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run28_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 29
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "9f317706-8cfc-4c51-b193-498d78088c54"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+1204d71dd29de7ced67a4ee8cd7a36e2c3e45c7ef5f58514fdd73d4e5619ec02
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Latence moyenne: 8.15 ms
+Throughput: 122.65 inférences/sec
+Latence moyenne: 8.21 ms
+Throughput: 121.80 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.25 inférences/sec
+Latence moyenne: 7.11 ms
+Throughput: 140.65 inférences/sec
+Durée d'exécution : 2717 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run29_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run29_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run29_crio/time.txt
+
+===============================
+[🔥] Runtime : crio - Itération : 30
+===============================
+[🧪] Contenu de /tmp/crio_run_147406/pod.json :
+{
+  "metadata": {
+    "name": "test-pod",
+    "namespace": "default",
+    "uid": "76a9d4d3-f4c7-4b5e-b3e7-c2d16a454519"
+  },
+  "log_directory": "/tmp",
+  "linux": {}
+}
+1ea9d159207569fae432513d326a1976f0d82ca1c031dcc3806a1351116d99d5
+[ℹ] Logs CRI-O :
+Latence moyenne: 7.76 ms
+Throughput: 128.86 inférences/sec
+Latence moyenne: 8.71 ms
+Throughput: 114.78 inférences/sec
+Latence moyenne: 7.36 ms
+Throughput: 135.86 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.05 inférences/sec
+Latence moyenne: 7.85 ms
+Throughput: 127.37 inférences/sec
+Latence moyenne: 7.12 ms
+Throughput: 140.39 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.45 inférences/sec
+Latence moyenne: 7.56 ms
+Throughput: 132.26 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.92 inférences/sec
+Latence moyenne: 8.16 ms
+Throughput: 122.53 inférences/sec
+Latence moyenne: 7.73 ms
+Throughput: 129.38 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.39 inférences/sec
+Latence moyenne: 8.34 ms
+Throughput: 119.82 inférences/sec
+Latence moyenne: 7.98 ms
+Throughput: 125.20 inférences/sec
+Latence moyenne: 7.79 ms
+Throughput: 128.26 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.74 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.20 inférences/sec
+Latence moyenne: 8.51 ms
+Throughput: 117.46 inférences/sec
+Latence moyenne: 7.75 ms
+Throughput: 128.98 inférences/sec
+Latence moyenne: 7.65 ms
+Throughput: 130.75 inférences/sec
+Latence moyenne: 7.78 ms
+Throughput: 128.48 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.79 inférences/sec
+Latence moyenne: 8.01 ms
+Throughput: 124.82 inférences/sec
+Latence moyenne: 7.15 ms
+Throughput: 139.73 inférences/sec
+Latence moyenne: 8.03 ms
+Throughput: 124.47 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.81 inférences/sec
+Latence moyenne: 8.19 ms
+Throughput: 122.03 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.26 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.80 inférences/sec
+Latence moyenne: 8.36 ms
+Throughput: 119.53 inférences/sec
+Latence moyenne: 7.94 ms
+Throughput: 125.84 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.70 inférences/sec
+Latence moyenne: 8.35 ms
+Throughput: 119.68 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 126.98 inférences/sec
+Latence moyenne: 8.02 ms
+Throughput: 124.69 inférences/sec
+Latence moyenne: 8.20 ms
+Throughput: 121.91 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.41 inférences/sec
+Latence moyenne: 7.60 ms
+Throughput: 131.61 inférences/sec
+Latence moyenne: 7.76 ms
+Throughput: 128.75 inférences/sec
+Latence moyenne: 8.13 ms
+Throughput: 122.91 inférences/sec
+Latence moyenne: 8.26 ms
+Throughput: 121.07 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.58 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.10 inférences/sec
+Latence moyenne: 7.24 ms
+Throughput: 138.14 inférences/sec
+Latence moyenne: 7.90 ms
+Throughput: 126.60 inférences/sec
+Latence moyenne: 7.96 ms
+Throughput: 125.63 inférences/sec
+Latence moyenne: 8.09 ms
+Throughput: 123.60 inférences/sec
+Latence moyenne: 8.00 ms
+Throughput: 124.95 inférences/sec
+Latence moyenne: 7.87 ms
+Throughput: 127.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.28 inférences/sec
+Latence moyenne: 7.81 ms
+Throughput: 128.01 inférences/sec
+Latence moyenne: 8.04 ms
+Throughput: 124.27 inférences/sec
+Latence moyenne: 8.06 ms
+Throughput: 124.04 inférences/sec
+Latence moyenne: 7.50 ms
+Throughput: 133.29 inférences/sec
+Latence moyenne: 8.15 ms
+Throughput: 122.65 inférences/sec
+Latence moyenne: 8.21 ms
+Throughput: 121.80 inférences/sec
+Latence moyenne: 7.86 ms
+Throughput: 127.25 inférences/sec
+Latence moyenne: 7.11 ms
+Throughput: 140.65 inférences/sec
+Latence moyenne: 7.82 ms
+Throughput: 127.84 inférences/sec
+Durée d'exécution : 2719 ms
+[✔] Fichiers générés dans ./output_RUN_20250723_235818/run30_crio :
+  ↪ Énergie : ./output_RUN_20250723_235818/run30_crio/power.txt
+  ↪ Temps   : ./output_RUN_20250723_235818/run30_crio/time.txt
+
+✅ Tous les tests terminés. Résultats dans : ./output_RUN_20250723_235818

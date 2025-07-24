@@ -1,0 +1,140 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK nginx ################################
+
+
+# Import netperf file
+
+nginx<- readr::read_csv("~/Dicht/nginx/nginx.csv")
+
+# Format column types
+
+nginx$Concurrency <- as.factor(nginx$Concurrency)   
+
+## PLOTS ##
+
+# TP
+
+
+
+################################### visualisation debit ###################################
+
+
+p<- ggplot(nginx, aes(x=Concurrency, Requests_mean, fill=environment,label=Requests_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=Requests_mean-Requests_std, ymax=Requests_mean+Requests_std), width=.2,
+                position=position_dodge(.9)) +
+  labs(x="Concurrency", y="Throughput (rq/s)")
+
+
+
+
+p<- p +theme_classic()+ theme(legend.position = "top",legend.title = element_blank(),
+                                 legend.text = element_text( size = 44),
+                                 axis.text.x  = element_text(vjust=0.5, size=44,angle=60,color = "black"),
+                                 axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+p<-p + scale_x_discrete(labels=c("1000" = "1k", "2000" = "2k",
+                                   "3000" = "3k","4000" = "4k", "5000" = "5k",
+                                   "6000" = "6k","7000" = "7k", "8000" = "8k",
+                                   "9000" = "9k"))
+
+p
+
+ggsave("nginx.pdf",width=26,height = 10)
+
+################################### visualisation time  ###################################
+
+
+p1<- ggplot(nginx, aes(x=Concurrency, percentile90_mean, fill=environment,label=percentile90_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=percentile90_mean-percentile90_std, ymax=percentile90_mean+percentile90_std), width=.2,
+                position=position_dodge(.9)) +
+  labs(x="Concurrency", y="Throughput (rq/s)")
+
+
+
+
+p1<- p1 +theme_classic()+ theme(legend.position = "top",legend.title = element_blank(),
+                                 legend.text = element_text( size = 44),
+                                 axis.text.x  = element_text(vjust=0.5, size=44,angle=60,color = "black"),
+                                 axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+p1<-p1 + scale_x_discrete(labels=c("1000" = "1k", "2000" = "2k",
+                                   "3000" = "3k","4000" = "4k", "5000" = "5k",
+                                   "6000" = "6k","7000" = "7k", "8000" = "8k",
+                                   "9000" = "9k" ))
+
+p1
+
+ggsave("nginx_time.pdf",width=26,height = 10)
+
+
+
+
+
+
+################################### avec les variantes runtimes #############################
+
+
+# Import netperf file
+
+nginx1<- readr::read_csv("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/nginx/nginx_global.csv")
+
+# Format column types
+
+nginx1$Concurrency <- as.factor(nginx1$Concurrency)   
+
+## PLOTS ##
+
+# TP
+
+
+
+################################### visualisation debit ###################################
+
+
+p2<- ggplot(nginx1, aes(x=Concurrency, Requests_mean, fill=environment,label=Requests_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=Requests_mean-Requests_std, ymax=Requests_mean+Requests_std), width=.2,
+                position=position_dodge(.9)) +
+  labs(x="Concurrency", y="Throughput (rq/s)")
+
+
+
+
+p2<- p2 +theme_classic()+ theme(legend.position = "top",legend.title = element_blank(),
+                                 legend.text = element_text( size = 44),
+                                 axis.text.x  = element_text(vjust=0.5, size=44,angle=60,color = "black"),
+                                 axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                                 axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+p2<-p2 + scale_x_discrete(labels=c("1000" = "1k", "2000" = "2k",
+                                   "3000" = "3k","4000" = "4k", "5000" = "5k",
+                                   "6000" = "6k","7000" = "7k", "8000" = "8k",
+                                   "9000" = "9k"))
+
+p2
+
+ggsave("nginx_global.pdf",width=26,height = 10)
+
+

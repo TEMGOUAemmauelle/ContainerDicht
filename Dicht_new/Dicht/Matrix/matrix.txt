@@ -1,0 +1,35 @@
+#####  #####
+
+# Load packages
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+
+# Set Working Directory
+setwd("/Dicht/Matrix/")
+
+matrix<- readr::read_csv("matrix_final.csv") 
+
+# Format column types
+
+matrix$tests <- as.factor(matrix$tests)    
+
+## PLOTS ##
+
+
+p<- ggplot(matrix, aes(x=tests, y=valeur_mean, fill=environment,label=valeur_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  labs(x="", y="Execution Time (s)")
+
+
+p +theme_classic() + theme(legend.position = "none",legend.title = element_blank(),
+                            legend.text = element_text( size = 44),
+                            axis.text.x  = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=45,color = "black"),
+                            axis.title.x = element_text(vjust=0.5, size=48,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("matrix.pdf",width=11,height = 8)
+
+

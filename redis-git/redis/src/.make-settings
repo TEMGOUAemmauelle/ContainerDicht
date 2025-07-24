@@ -1,0 +1,12 @@
+STD=-pedantic -DREDIS_STATIC= -std=c11
+WARN=-Wall -W -Wno-missing-field-initializers -Werror=deprecated-declarations
+OPT=-O3
+MALLOC=jemalloc
+BUILD_TLS=
+USE_SYSTEMD=
+CFLAGS=
+LDFLAGS=
+REDIS_CFLAGS=-flto
+REDIS_LDFLAGS=-flto
+PREV_FINAL_CFLAGS=-pedantic -DREDIS_STATIC= -std=c11 -Wall -W -Wno-missing-field-initializers -Werror=deprecated-declarations -O3 -g -ggdb -flto -I../deps/hiredis -I../deps/linenoise -I../deps/lua/src -I../deps/hdr_histogram -I../deps/fpconv -DHAVE_LIBSYSTEMD -DUSE_JEMALLOC -I../deps/jemalloc/include
+PREV_FINAL_LDFLAGS= -flto -g -ggdb -rdynamic

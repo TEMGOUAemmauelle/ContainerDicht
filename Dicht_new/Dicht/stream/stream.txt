@@ -1,0 +1,115 @@
+
+
+#####  #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK stream  ################################
+
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/stream/")
+
+# Import netperf file
+stream<- readr::read_csv("stream.csv") 
+
+# Format column types
+
+stream$tests <- as.factor(stream$tests)    
+
+## PLOTS ##
+
+#################################### visualisation debit ###########################
+
+p<- ggplot(stream, aes(x=tests, y=debit_mean, fill=Environment,label=debit_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=debit_mean-debit_std, ymax=debit_mean+debit_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="", y="Throughput Mb/s")
+
+
+p + theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+          legend.text = element_text( size = 40),
+          axis.text.x  = element_text(vjust=0.5, size=44,color="black"),
+          axis.text.y  = element_text(vjust=0.5, size=44,color="black"),
+          axis.title.x = element_text(),
+          axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("stream1.pdf",width=13,height = 10)
+
+
+#################################### visualisation time ###########################
+
+p1<- ggplot(stream, aes(x=tests, y=time_mean, fill=Environment,label=time_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=time_mean-time_std, ymax=time_mean+time_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="", y="Latency(s")
+
+
+p1<-p1 + theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+          legend.text = element_text( size = 40),
+          axis.text.x  = element_text(vjust=0.5, size=44,color="black"),
+          axis.text.y  = element_text(vjust=0.5, size=44,color="black"),
+          axis.title.x = element_text(),
+          axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("stream_time.pdf",width=13,height = 10)
+
+
+
+################################ avec les variantes runtimes ##############################
+
+
+# Import netperf file
+stream1<- readr::read_csv("stream_global.csv") 
+
+# Format column types
+
+stream1$tests <- as.factor(stream1$tests)    
+
+#################################### visualisation debit ###########################
+
+p2<- ggplot(stream1, aes(x=tests, y=debit_mean, fill=Environment,label=debit_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=debit_mean-debit_std, ymax=debit_mean+debit_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="", y="Throughput Mb/s")
+
+
+p2<-p2 + theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+          legend.text = element_text( size = 40),
+          axis.text.x  = element_text(vjust=0.5, size=44,color="black"),
+          axis.text.y  = element_text(vjust=0.5, size=44,color="black"),
+          axis.title.x = element_text(),
+          axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("stream_global.pdf",width=27,height = 10)
+
+
+#################################### visualisation time ###########################
+
+p3<- ggplot(stream1, aes(x=tests, y=time_mean, fill=Environment,label=time_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=time_mean-time_std, ymax=time_mean+time_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="", y="Latency(s")
+
+
+p3<-p3 + theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+          legend.text = element_text( size = 40),
+          axis.text.x  = element_text(vjust=0.5, size=44,color="black"),
+          axis.text.y  = element_text(vjust=0.5, size=44,color="black"),
+          axis.title.x = element_text(),
+          axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("stream_time_global.pdf",width=27,height = 10)
+
+

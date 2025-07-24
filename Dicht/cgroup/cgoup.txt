@@ -1,0 +1,55 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK CGROUP ################################
+
+############################# visualisation de la memoire ##################
+ 
+
+
+
+
+# Set Working Directory
+setwd("~/Dicht/cgroup/")
+
+# Import netperf file
+final<- readr::read_csv("Cgroup_eval.csv") 
+
+# Format column types
+
+final$Api <- as.factor(final$Api) 
+
+
+p<-ggplot(final, aes(x=Memory_size, y=MIPS, fill=environment,label=environment)) +
+  geom_bar(stat="identity", color="black",alpha=1,
+           position=position_dodge()) +
+
+  ggtitle("Systemd") +
+ 
+  labs(x="Memory Size (MB)", y="MIPS")
+
+
+
+p<-p +theme_classic()+theme(legend.position = "top",legend.title = element_blank(),
+                         legend.text = element_text( size = 60),
+                         axis.text.x  = element_text(vjust=0.5,size=44,color = "black" ),
+                         axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                         axis.title.x = element_text(vjust=0.5,size=48,color = "black"),
+                         axis.title.y = element_text(vjust=0.5, size=48,color = "black"),
+                         plot.title = element_text(color="black", size=44, face="bold"))
+
+
+p
+ggsave("cgroup_systemd.pdf",width=27,height = 11)
+
+

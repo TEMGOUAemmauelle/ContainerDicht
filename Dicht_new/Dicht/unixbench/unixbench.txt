@@ -1,0 +1,38 @@
+
+
+##### #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK unixbench  ################################
+
+
+unix<- readr::read_csv("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/unixbench/unix_bench.csv")
+
+
+############################ visualisation index score########################################
+
+unix$Tests <- as.factor(unix$Tests)
+p<- ggplot(unix, aes(x=Tests, y=INDEX, fill=Environment,label=INDEX)) +
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x=" ", y="INDEX SCORE ")
+
+p<-p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                              legend.text = element_text( size = 40,color = "black"),
+                              axis.text.x  = element_text(vjust=0.5, size=44,angle=60,color = "black"),
+                              axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                              axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                              axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+
+p
+
+ggsave("unix1.pdf",width=20,height = 10)

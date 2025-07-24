@@ -1,0 +1,33 @@
+============================================================
+RAPPORT DE BENCHMARK - COMPARAISON DES RUNTIMES
+============================================================
+
+
+========================================
+Runtime: docker
+========================================
+Latence (ms): Moyenne=7.78 ± 0.36
+Throughput (inf/sec): Moyenne=128.85 ± 6.25
+Durée (ms): Moyenne=1518.30 ± 44.41
+
+========================================
+Runtime: podman
+========================================
+Latence (ms): Moyenne=7.75 ± 0.33
+Throughput (inf/sec): Moyenne=129.30 ± 5.65
+Durée (ms): Moyenne=1742.10 ± 76.43
+
+========================================
+Runtime: crio
+========================================
+Latence (ms): Moyenne=7.88 ± 0.36
+Throughput (inf/sec): Moyenne=127.15 ± 6.11
+Durée (ms): Moyenne=2754.80 ± 59.85
+
+============================================================
+COMPARAISON FINALE
+============================================================
+
+Meilleure latence: podman (7.75 ms)
+Meilleur throughput: podman (129.30 inférences/sec)
+Meilleure durée d'exécution: docker (1518.30 ms)

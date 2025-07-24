@@ -1,0 +1,91 @@
+
+
+#####  #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK rocksdb  ################################
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/rockdb/")
+
+# Import netperf file
+rock<- readr::read_csv("rocksdb.csv") 
+
+# Format column types
+
+rock$entries_db <- as.factor(rock$entries_db)    
+
+## PLOTS ##
+
+
+####################################### visualisation debit op/sec #################################
+
+
+
+p1<- ggplot(rock, aes(x=entries_db, y=ops_sec, fill=Environment,label=ops_sec)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x="Entries", y="Throughput op/sec")
+
+
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                           legend.text = element_text( size = 40,color = "black"),
+                           axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                           axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+p1
+
+ggsave("rock1.pdf",width=11,height = 9)
+
+####################################### visualisation latence #################################
+
+
+
+p1<- ggplot(rock, aes(x=entries_db, y=time_exec, fill=Environment,label=time_exec)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  
+  labs(x="Entries", y="Latency (s)")
+
+
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                           legend.text = element_text( size = 40,color = "black"),
+                           axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                           axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+p1
+
+ggsave("rock2.pdf",width=11,height = 9)
+
+####################################### visualisation debit Mb/s #################################
+
+
+
+p1<- ggplot(rock, aes(x=entries_db, y=mb_sec, fill=Environment,label=mb_sec)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+ 
+  labs(x="Entries", y="Throughput Mb/s")
+
+
+p1<-p1 +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                           legend.text = element_text( size = 40,color = "black"),
+                           axis.text.x  = element_text(vjust=0.5, size=44,color = "black",angle=60),
+                           axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                           axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+p1
+
+ggsave("rock3.pdf",width=11,height = 9)
+

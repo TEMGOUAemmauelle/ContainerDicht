@@ -1,0 +1,45 @@
+
+
+##### 2023-STELLA #####
+
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+library(gridExtra)
+library(cowplot)
+library(patchwork)
+
+
+############################# BENCHMARK Matrix ################################
+
+
+# Set Working Directory
+setwd("~/Documents/container_ditch-main/findings/Docker_ditch/Dicht/Matrix/")
+
+matrix<- readr::read_csv("matrix_final.csv") 
+
+# Format column types
+
+matrix$tests <- as.factor(matrix$tests)    
+
+## PLOTS ##
+
+######################## visualisation latence #########################
+
+
+p<- ggplot(matrix, aes(x=tests, y=valeur_mean, fill=environment,label=valeur_mean)) + 
+  geom_bar(stat="identity", color="black",alpha=1,width=0.8,
+           position=position_dodge()) +
+  geom_errorbar(aes(ymin=valeur_mean-valeur_std, ymax=valeur_mean+valeur_std), width=.2,
+                position=position_dodge(.9))+
+  labs(x="", y="Latency (s)")
+
+
+p +theme_classic() + theme(legend.position = "top",legend.title = element_blank(),
+                            legend.text = element_text( size = 40),
+                            axis.text.x  = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.text.y  = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.x = element_text(vjust=0.5, size=44,color = "black"),
+                            axis.title.y = element_text(vjust=0.5, size=50,color = "black"))
+ggsave("matrix1.pdf",width=11,height = 7)

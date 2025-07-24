@@ -1,0 +1,1 @@
+Durée d'exécution : 5347 ms
