@@ -3,9 +3,9 @@
 # === CONFIGURATION ===
 IMAGE_NAME="mon-image-redis"
 RUNTIMES=("docker" "podman" "crio")  # Adapter CRI-O si besoin
-ITERATIONS=30
+ITERATIONS=10
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
-OUTPUT_DIR="./output_RUN_${TIMESTAMP}"
+OUTPUT_DIR="./output_CUN_${TIMESTAMP}"
 mkdir -p "$OUTPUT_DIR"
 
 # Fichier CSV général
