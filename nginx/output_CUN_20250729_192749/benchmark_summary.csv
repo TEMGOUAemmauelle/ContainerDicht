@@ -1,0 +1,8 @@
+iteration,runtime,type,duration_ms,avg_pkg_watt,avg_cor_watt,avg_gfx_watt,avg_cpu_c6,power_file
+1,docker,run,9264,8.58,13.47,0.00,0.00,./output_CUN_20250729_192749/run1_docker/power.txt
+2,docker,run,9743,8.74,13.61,0.00,0.00,./output_CUN_20250729_192749/run2_docker/power.txt
+3,docker,run,5795,8.97,13.90,0.00,0.00,./output_CUN_20250729_192749/run3_docker/power.txt
+4,docker,run,24160,8.37,13.14,0.00,0.00,./output_CUN_20250729_192749/run4_docker/power.txt
+5,docker,run,7668,8.98,13.65,0.00,0.00,./output_CUN_20250729_192749/run5_docker/power.txt
+6,docker,run,6230,8.54,13.47,0.00,0.00,./output_CUN_20250729_192749/run6_docker/power.txt
+7,docker,run,4306,10.42,15.37,0.00,0.00,./output_CUN_20250729_192749/run7_docker/power.txt

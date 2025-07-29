@@ -1,0 +1,3 @@
+iteration,runtime,startup_duration_ms,time_file
+1,docker,3081,./output_RUN_20250729_152232/run1_docker/time.txt
+2,docker,3206,./output_RUN_20250729_152232/run2_docker/time.txt

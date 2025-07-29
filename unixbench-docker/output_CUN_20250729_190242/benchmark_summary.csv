@@ -1,0 +1,11 @@
+iteration,runtime,type,duration_ms,avg_pkg_watt,avg_cor_watt,avg_gfx_watt,avg_cpu_c6,power_file
+1,crio,run,11474,0.95,5.79,0.00,0.00,./output_CUN_20250729_190242/run1_crio/power.txt
+2,crio,run,11298,0.92,5.81,0.00,0.00,./output_CUN_20250729_190242/run2_crio/power.txt
+3,crio,run,11299,0.94,5.87,0.00,0.00,./output_CUN_20250729_190242/run3_crio/power.txt
+4,crio,run,11415,1.04,6.66,0.00,0.00,./output_CUN_20250729_190242/run4_crio/power.txt
+5,crio,run,11574,0.96,6.42,0.00,0.00,./output_CUN_20250729_190242/run5_crio/power.txt
+6,crio,run,11344,1.00,6.66,0.00,0.00,./output_CUN_20250729_190242/run6_crio/power.txt
+7,crio,run,11527,0.96,6.59,0.00,0.00,./output_CUN_20250729_190242/run7_crio/power.txt
+8,crio,run,12068,0.81,5.83,0.00,0.00,./output_CUN_20250729_190242/run8_crio/power.txt
+9,crio,run,12155,0.98,6.16,0.00,0.00,./output_CUN_20250729_190242/run9_crio/power.txt
+10,crio,run,11927,0.89,5.98,0.00,0.00,./output_CUN_20250729_190242/run10_crio/power.txt

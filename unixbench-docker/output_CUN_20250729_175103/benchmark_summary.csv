@@ -1,0 +1,12 @@
+iteration,runtime,type,duration_ms,avg_pkg_watt,avg_cor_watt,avg_gfx_watt,avg_cpu_c6,power_file
+1,docker,run,8833,4.51,9.24,0.00,0.00,./output_CUN_20250729_175103/run1_docker/power.txt
+2,docker,run,4197,2.47,7.37,0.00,0.00,./output_CUN_20250729_175103/run2_docker/power.txt
+3,docker,run,3754,5.44,10.30,0.00,0.00,./output_CUN_20250729_175103/run3_docker/power.txt
+4,docker,run,4205,5.66,10.67,0.00,0.00,./output_CUN_20250729_175103/run4_docker/power.txt
+5,docker,run,3784,5.68,10.57,0.00,0.00,./output_CUN_20250729_175103/run5_docker/power.txt
+6,docker,run,4892,3.39,8.38,0.00,0.00,./output_CUN_20250729_175103/run6_docker/power.txt
+7,docker,run,6518,5.73,10.56,0.00,0.00,./output_CUN_20250729_175103/run7_docker/power.txt
+8,docker,run,12151,4.86,9.63,0.00,0.00,./output_CUN_20250729_175103/run8_docker/power.txt
+9,docker,run,11089,4.79,9.56,0.00,0.00,./output_CUN_20250729_175103/run9_docker/power.txt
+10,docker,run,4696,3.92,8.75,0.00,0.00,./output_CUN_20250729_175103/run10_docker/power.txt
+1,podman,run,3132497,3.60,8.96,0.00,0.00,./output_CUN_20250729_175103/run1_podman/power.txt

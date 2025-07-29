@@ -1,0 +1,31 @@
+iteration,runtime,type,duration_ms,avg_pkg_watt,avg_cor_watt,avg_gfx_watt,avg_cpu_c6,avg_latency_ms,throughput,power_file
+1,docker,run,2408,1.81,7.26,0.00,0.00,12.53,79.79,./output_AI_20250729_201731/run1_docker/power.txt
+2,docker,run,2050,1.80,7.21,0.00,0.00,11.55,86.59,./output_AI_20250729_201731/run2_docker/power.txt
+3,docker,run,2046,1.81,7.27,0.00,0.00,11.17,89.47,./output_AI_20250729_201731/run3_docker/power.txt
+4,docker,run,2012,1.17,6.18,0.00,0.00,11.72,85.33,./output_AI_20250729_201731/run4_docker/power.txt
+5,docker,run,2040,1.82,7.18,0.00,0.00,11.68,85.58,./output_AI_20250729_201731/run5_docker/power.txt
+6,docker,run,2088,1.87,7.25,0.00,0.00,12.44,80.38,./output_AI_20250729_201731/run6_docker/power.txt
+7,docker,run,2116,1.84,7.23,0.00,0.00,12.0,83.34,./output_AI_20250729_201731/run7_docker/power.txt
+8,docker,run,2053,1.80,7.20,0.00,0.00,11.55,86.56,./output_AI_20250729_201731/run8_docker/power.txt
+9,docker,run,1992,1.21,6.08,0.00,0.00,10.98,91.08,./output_AI_20250729_201731/run9_docker/power.txt
+10,docker,run,2039,1.79,7.18,0.00,0.00,10.9,91.71,./output_AI_20250729_201731/run10_docker/power.txt
+1,podman,run,75,0.15,4.69,0.00,0.00,NA,NA,./output_AI_20250729_201731/run1_podman/power.txt
+2,podman,run,69,0.20,4.86,0.00,0.00,NA,NA,./output_AI_20250729_201731/run2_podman/power.txt
+3,podman,run,72,0.14,4.68,0.00,0.00,NA,NA,./output_AI_20250729_201731/run3_podman/power.txt
+4,podman,run,73,0.14,4.69,0.00,0.00,NA,NA,./output_AI_20250729_201731/run4_podman/power.txt
+5,podman,run,68,0.14,4.67,0.00,0.00,NA,NA,./output_AI_20250729_201731/run5_podman/power.txt
+6,podman,run,70,0.14,4.67,0.00,0.00,NA,NA,./output_AI_20250729_201731/run6_podman/power.txt
+7,podman,run,71,0.15,4.68,0.00,0.00,NA,NA,./output_AI_20250729_201731/run7_podman/power.txt
+8,podman,run,72,0.14,4.66,0.00,0.00,NA,NA,./output_AI_20250729_201731/run8_podman/power.txt
+9,podman,run,68,0.14,4.70,0.00,0.00,NA,NA,./output_AI_20250729_201731/run9_podman/power.txt
+10,podman,run,71,0.13,4.66,0.00,0.00,NA,NA,./output_AI_20250729_201731/run10_podman/power.txt
+1,crio,run,299,0.14,4.67,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run1_crio/power.txt
+2,crio,run,291,0.14,4.69,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run2_crio/power.txt
+3,crio,run,287,0.15,4.75,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run3_crio/power.txt
+4,crio,run,288,0.14,4.72,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run4_crio/power.txt
+5,crio,run,291,0.14,4.74,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run5_crio/power.txt
+6,crio,run,286,0.14,4.72,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run6_crio/power.txt
+7,crio,run,297,0.14,4.71,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run7_crio/power.txt
+8,crio,run,288,0.14,4.68,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run8_crio/power.txt
+9,crio,run,295,0.14,4.72,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run9_crio/power.txt
+10,crio,run,299,0.14,4.69,0.00,0.00,[✘] Erreur : échec création conteneur,./output_AI_20250729_201731/run10_crio/power.txt

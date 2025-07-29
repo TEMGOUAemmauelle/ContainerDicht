@@ -1,28 +1,17 @@
 FROM alpine:3.16
 
-ARG unix_VERSION=v5.1.3
-
+# Installer les outils nécessaires
 RUN apk update && \
-    ls && \
-    apk add git make gcc libc-dev bash && \
-    apk add --no-cache build-base linux-headers perl && \
-    #pip install x11-apps && \
-    #./install_drawstuff.sh && \
-    mkdir /usr/src && \
+    apk add --no-cache git make gcc bash libc-dev build-base linux-headers perl && \
+    # Cloner le dépôt UnixBench
+    mkdir -p /usr/src && \
     cd /usr/src && \
-    git clone --depth 1  https://github.com/kdlucas/byte-unixbench.git && \
-    ls && \
-    cd byte-unixbench/UnixBench && \
-    #cd /usr/src/unixbench/byte-unixbench/UnixBench && \
-    # Fix 'install -c' flag
+    git clone --depth 1 https://github.com/kdlucas/byte-unixbench.git && \
+    cd /usr/src/byte-unixbench/UnixBench && \
     make
 
+# Définir le répertoire de travail
+WORKDIR /usr/src/byte-unixbench/UnixBench
 
-
-    
-    
-
-
-
-
-
+# Commande exécutée automatiquement au lancement du conteneur
+CMD ["./Run"]
