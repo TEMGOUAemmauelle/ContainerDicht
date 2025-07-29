@@ -91,3 +91,10 @@ RUN set -eux; \
 	redis-cli --version; \
 	redis-server --version
 
+# Vérification des versions
+RUN \
+	redis-cli --version; \
+	redis-server --version
+
+# Définir la commande par défaut : démarrer le serveur Redis
+CMD ["redis-server"]
